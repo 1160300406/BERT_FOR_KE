@@ -15,5 +15,5 @@ We should prepare `train.txt.tmp`, `dev.txt.tmp` and `test.txt.tmp` in the follo
 5: run: `./process.sh` <br>
 
 ## Fine-tuned BERT model and result
-model and predictions: https://pan.baidu.com/s/15KO2tUXevni6di-R4gp1Eg  `53bt`
-epoch_result:  `epoch_result.txt`
+model and predictions: https://pan.baidu.com/s/15KO2tUXevni6di-R4gp1Eg  `53bt` <br>
+results:  In `epoch_result.txt` <br>
