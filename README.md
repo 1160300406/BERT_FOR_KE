@@ -13,3 +13,7 @@ We should prepare `train.txt.tmp`, `dev.txt.tmp` and `test.txt.tmp` in the follo
 3: config other params in `process.sh` <br>
 4: process data: `./data_preprocess.sh` <br>
 5: run: `./process.sh` <br>
+
+## Fine-tuned BERT model and result
+model and predictions: https://pan.baidu.com/s/15KO2tUXevni6di-R4gp1Eg  `53bt`
+epoch_result:  `epoch_result.txt`
